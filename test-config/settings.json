@@ -1,0 +1,13 @@
+{
+  "url": "http://164.90.172.137:9009/",
+  "internalPort": 9119,
+  "tcpPort": 50505,
+  "ipfsPort": 50506,
+  "uiVersion": "1.1.4",
+  "useExternalNode": true,
+  "runInternalNode": false,
+  "internalApiKey": "d265w0gpdvbdj9f4l8zzeuiewlc3jm0so",
+  "externalApiKey": "1f52334dcdc078c5ce6e230b59df4268",
+  "lng": "en",
+  "initialized": true
+}
