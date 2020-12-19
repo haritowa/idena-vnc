@@ -80,7 +80,7 @@ RUN apt-get update \
 
 
 # Idena Client
-ARG IDENA_VERSION=0.15.3
+ARG IDENA_VERSION=0.18.0
 RUN wget https://github.com/haritowa/idena-desktop/releases/download/v"${IDENA_VERSION}"/idena-client-linux-"${IDENA_VERSION}".deb \
     && dpkg -i idena-client-linux-"${IDENA_VERSION}".deb \
     && rm idena-client-linux-"${IDENA_VERSION}".deb
